@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Metadata and links to CSS -->
+    <meta charset="UTF-8">
+    <title>Adrien Fauste-Gay</title>
+    <link href="./main.3f6952e4.css" rel="stylesheet">
+    <link href="./assets/logoV3.jpg" rel="icon">
+    <!-- Additional CSS for enhanced styling -->
+    <!-- Include jQuery and jQuery UI for accordion and search functionality -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!-- Custom CSS and JS -->
+    <style>
+        /* Additional styles */
+        #FAQ .accordion {
+          background-color: #eee;
+          color: #444;
+          cursor: pointer;
+          padding: 18px;
+          width: 100%;
+          border: none;
+          text-align: left;
+          outline: none;
+          font-size: 15px;
+          transition: 0.4s;
+        }
+
+        #FAQ .accordion:hover, #faq-section .active {
+          background-color: #ccc;
+        }
+
+        #FAQ .panel {
+          padding: 0 18px;
+          display: none;
+          background-color: transparent;
+          overflow: hidden;
+          transition: max-height 0.2s ease-out;
+        }
+
+        body {
+          background-image: url('./assets/images/these/R1-07288-0022.JPG');
+          background-size: cover;
+          background-attachment: fixed;
+          background-position: center;
+          color: white;
+          background-color: black;
+        }
+
+        /* Optional: Adding a slight overlay to make text more readable */
+        body::before {
+          content: '';
+          display: block;
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.5); /* Adjust color and opacity to your liking */
+          z-index: -1;
+        }
+        h1, h2, h3, .nav-tabs > li > a {
+          color: white;
+        }
+
+        .navbar {
+                  background-color: transparent !important;
+                  position: static; !important;
+                }
+
+                    /* Style pour les liens hypertextes */
+        
+        a.lien-externe:link,
+        a.lien-externe:visited {
+            color: white; /* Couleur du texte */
+            font-weight: bold; /* Texte en gras */
+            text-decoration: underline; /* Texte souligné */
+        }
+
+        a.lien-externe:hover {
+            color: grey; /* Couleur au survol */
+            /* Vous pouvez également modifier le style au survol si nécessaire */
+        }
+
+        .collapse.navbar-collapse {
+            margin: 0px; /* Centre l'élément horizontalement */
+        }
+
+        .btn-primary {color:#fff;background-color:transparent;border-color:#fff}
+        .btn-primary:hover {color:#fff;background-color:#000;border-color:#000}
+
+
+    </style>
+    <script>
+        $(function() {
+            // jQuery functions for accordion and search
+        });
+    </script>
+</head>
+
+<body>
+    <!-- Header and Navigation -->
+    <header>
+       <nav class="navbar  navbar-fixed-top navbar-default">
+    <div class="container">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse" style="text-align: center">
+        <ul class="nav navbar-nav ">
+          <li><a href="./index.html" title=""><p style="color:white;">01 : Accueil</p></a></li>
+          <li><a href="./about.html" title=""><p style="color:white;">02 : A propos</p></a></li>
+          <li><a href="./these.html" title=""><p style="color:white;">03 : Thèse</p></a></li>
+          <li><a href="./works.html" title=""><p style="color:white;">04 : Travaux</p></a></li>
+          <li><a href="./cours.html" title=""><p style="color:white;">05 : Formation</p></a></li>
+          <!--<li><a href="./Albums.html" title=""><p style="color:black;">05 : Photos</p></a></li>-->
+          <li><a href="./contact_en.html" title=""><p style="color:white;">06 : Contact</p></a></li>
+          <li><a href="./these_en.html" title=""><p style="color:white;">English Version</p></a></li>
+        </ul>
+
+
+      </div> 
+    </div>
+  </nav>
+    </header>
+
+    <!-- Thesis Content Section with Tabbed Navigation -->
+    <div class="section-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="section-container-spacer text-center">
+                        <h1>MÉTABOLISME AGRAIRE ET THERMODYNAMIQUE DES SYSTÈMES COMPLEXES</h1>
+                    </div>
+
+                    <!-- Tabbed Navigation for different sections of the thesis -->
+                    <!--
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a data-toggle="tab" href="#introduction">Introduction</a></li>
+                        <li><a data-toggle="tab" href="#Vue_générale">Vue générale</a></li>
+                        <li><a data-toggle="tab" href="#prospective_terre">Prospective sur l'usage des terres</a></li>
+                        <li><a data-toggle="tab" href="#WOFOST">Cultiver en 2030</a></li>
+                        <li><a data-toggle="tab" href="#Metabolisme_agricole">Métabolisme Agricole</a></li>
+                        <li><a data-toggle="tab" href="#The_Shift_Project">The Shift Project</a></li>
+                        <li><a data-toggle="tab" href="#FAQ">FAQ</a></li>
+                    -->
+                        <!-- More tabs for additional chapters -->
+                    </ul>
+
+                    <div class="tab-content">
+                        <!-- Introduction Tab -->
+                        <div id="introduction" class="tab-pane fade in active">
+                            <h2>Introduction</h2>
+                            <p>Cette page présente et documente les travaux que je réalise durant ma thèse. Celle-ci a débutée en octobre 2023 et est co-encadrée par Lauriane Mouysset au CIRED et Olivier Vidal à isterre. Dans le cadre des mes recherches, je participe aux travaux de l'équipe Agriculture du Shift Project. Les éléments présentés seront mis à jour régulièrement en fonction de mes avancées. Certaines sections peuvent être vides ou peu remplies, cela changera.</p>
+                            <!--<p> Une version PDF de la documentation de mon modèle est disponible ici :</p>
+                            <p align="center"><a href="CV_en.pdf" class="btn btn-primary btn-lg">Documentation (PDF)</a></p>-->
+                            <h3>Contexte</h3>
+                            Mon projet de thèse, mené en collaboration avec le Shift Project, a pour but d’étudier les échanges de matière et d’énergie entre les systèmes humains tel que l’agriculture et l’environnement afin de comprendre les modèles de développement des sociétés et de déterminer comment construire un avenir viable et durable. 
+                            Plus précisément, je m'intéresse à l'économie Physique, c'est à dire les échanges de flux et de matière dans les systèmes socio-économique et en particulier en agriculture. L'analyse de ces flux est ce que l'on appelle le métabolisme. Cela a permis d'analyser d'importantes transitions métaboliques dans nos sociétés comme le passage de la poly-culture élevage du début du XXe siècle à l'agriculture industrielle et intensive actuelle via par exemple le remplacement de la traction animale par les tracteurs. Pour plus de détail, voir les travaux de Petros chatzimpiros sur l'énergie ou de Julia Le Noé sur les flux d'azote.
+
+                            <h3>Thermodynamique et théorie des graphes</h3>
+
+                            Le monde du vivant est d'une compléxité infinie. L'étudier via une approche mécanique, déterministe est vouée à l'échec. La Thermodynamique et la théories des graphes permettent de faire face à cette compléxité sans simplifier abusivement nos modèles.
+                            Ces outils permettent d'analyser et de comprendre le fonctionnement macroscopique de grands systèmes complexes (écosystèmes, systèmes agraires, réseaux économiques etc) et de prédire leur évolution.
+                            <!--
+                            <p>Le réchauffement climatique a des impacts croissants sur nos modes de vie et l'environnement. Le rapport spécial du GIEC sur le changement climatique et les terres émergées alerte quant à la vulnérabilité des écosystèmes terrestres et de la biodiversité au changement climatique et aux conditions météorologiques et climatiques extrêmes. Les changements d'usage des sols ont été identifiés comme l'une des principales causes de l'érosion de la biodiversité en Europe et en France au cours des dernières décennies. Les interactions complexes entre changement d’usage des sols et changement climatiques, aggravées par des processus de rétroaction à différentes échelles spatiotemporelles rendent ainsi leurs études très délicates.</p>
+                            <p>Le milieu agricole est particulièrement vulnérable face à ces défis. La créations d'outils de prospectives mettant en relation d'une part des données et des modèles scientifiques validés (climat, usage des sols...) et des scénario sur les futurs que l'on estime crédible (réaction du monde agricole face au changement, politiques publiques, influence des marchés...) semble être décisif pour prendre à toute échelle, des décision éclairées.</p>
+                            <p>Les sections suivantes présentent une vue générale de mes travaux, les methodes de prospectives sur l'usage des terres, le modèle de rendement agricole, les analyses du système agricole, les travaux du Shift et une FAQ</p>
+                        -->
+                            <!--<img src="./assets/your-thesis-image.jpg" class="img-responsive" alt="Thesis Image">-->
+                        </div>
+                    
+                        <!-- Chapter 1 Tab -->
+                        <!--
+                        <div id="Vue_générale" class="tab-pane fade">
+                            <h2>Vue générale</h2>
+                            <p>Pour comprendre rapidement le sujet de mes travaux.
+                            <h3>Le modèle</h3>
+                            <p>Le but de ma thèse est de mettre au point un modèle permettant de donner une image de ce que sera l'agriculture dans 5, 10, 20 ans. Ce modèle s'appuie lui même sur d'autres modèles déjà éprouvés (WOFOST, Pracmln, LARS-WG...) et des données issues de diverses institutions (relevés d'eau de ADES, les Registre Parcellaires Graphiques...) et les combines pour avoir une approche la plus complète possible. Un des objectifs de cette thèse est de réaliser un serious game basé sur un modèle bioéconomique. Ce serious game devra permettre d'explorer divers scénarios (climatiques, de choix de politiques agricoles...) et permettre aux décideurs de prendre des décisions éclairées.</p>
+
+                            <h3>Carte mentale</h3>
+
+                            <p>Ce diagramme présente l'architecture générale du modèle. L'idée est de partir de l'emprise réelle des activités agricoles sur le sol. celle-ci sont documentées par les Registre Parcellaires Graphiques. Ces données vont permettre d'entraîner un modèle permettant de faire de la prospective sur l'usage des terres (que sera planté dans les parcelles à l'avenir). A partir de cette emprise au sol, de données climatiques et de données locales, nous obtenons une estimation du rendement de chaque parcelle. Ces données permettent d'analyser le "métabolisme agricole", c'est à dire le fonctionnement physique du système agricole (que consomme t'on pour produire, que produit on, quelles zones sont en difficultés etc). Chaque élément est détaillé dans les sections suivantes.
+
+                            <img src="./assets/brouillon.svg" class="img-responsive" alt="Thesis Image">
+
+                        </div>
+
+                        <div id="The_Shift_Project" class="tab-pane fade">
+                            <h3>The Shift Project</h3>
+                            <p>Concepts</p>
+                        </div>
+
+                        <div id="prospective_terre" class="tab-pane fade">
+                            <h3>Prospective sur l'usage des terres</h3>
+                            <p>Concepts</p>
+                        </div>
+
+                        <div id="WOFOST" class="tab-pane fade">
+                            <h3>WOFOST</h3>
+                            <p>WOFOST, acronyme de "World Food Studies," est un modèle de simulation agronomique qui évalue la croissance et le rendement des cultures. En intégrant des données détaillées sur le sol, le climat, la gestion des cultures et les pratiques agricoles, WOFOST offre une estimation précise des rendements agricoles au fil du temps. Cet outil est utilisé par le <a href="https://joint-research-centre.ec.europa.eu/monitoring-agricultural-resources-mars_en" target="_blank" class="lien-externe">programme MARS</a> de la commission européenne pour estimer les rendements d'une année sur l'autre pour préparer le marché agricole.</p>
+                            <canvas id="monCanvas" width="400" height="200"></canvas>
+                        </div>
+
+                        <div id="Metabolisme_agricole" class="tab-pane fade">
+                            <h3>Métabolisme Agricole</h3>
+                            <p>Le métabolisme agricole, également connu sous le nom de métabolisme agricole des territoires, est un concept essentiel dans le domaine de l'agriculture et de l'écologie. Il désigne l'ensemble des processus et des flux de matières et d'énergie qui interviennent dans la production agricole d'une région donnée. Ce concept permet de mieux comprendre comment les ressources naturelles, telles que le sol, l'eau et l'énergie solaire, sont utilisées et transformées par l'agriculture.</p>
+
+                            <p>Le métabolisme agricole englobe divers éléments, notamment la production de cultures et d'élevages, la consommation d'eau pour l'irrigation, l'utilisation d'engrais et de pesticides, ainsi que les échanges de produits agricoles avec d'autres régions. Il permet de quantifier les entrées et les sorties de ressources et d'identifier les flux de matières et d'énergie au sein du système agricole.</p>
+
+                            <p>Comprendre le métabolisme agricole est crucial pour une agriculture durable. En analysant les flux et en identifiant les inefficacités, les agriculteurs et les décideurs peuvent prendre des mesures pour optimiser l'utilisation des ressources, réduire les déchets et minimiser les impacts environnementaux. Cela contribue à la préservation des écosystèmes locaux, à la sécurité alimentaire et à la durabilité à long terme de l'agriculture.</p>
+
+                            <p>En résumé, le métabolisme agricole est un concept clé qui permet d'analyser les processus et les flux au sein de l'agriculture. Il joue un rôle essentiel dans la transition vers une agriculture plus durable et dans la gestion efficace des ressources agricoles.</p>
+                        </div>
+
+                        <div id="FAQ" class="tab-pane fade">
+                            <h3>Foire aux questions</h3>
+                            <button class="accordion">Question 1</button>
+                            <div class="panel">
+                              <p>Réponse à la question 1.</p>
+                            </div>
+                            <button class="accordion">Question 2</button>
+                            <div class="panel">
+                              <p>Réponse à la question 2.</p>
+                            </div>
+                            -->
+                            <!-- Add more questions as needed -->
+                        </div>
+
+                            
+                        </div>
+
+                        <!-- Additional chapters -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <!-- Advanced footer with links, contact info, social media icons -->
+    </footer>
+
+    <!-- Scripts -->
+    <script src="./main.70a66962.js"></script>
+    <!-- Additional JavaScript for interactive elements -->
+    <script>
+    $(document).ready(function() {
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    });
+    </script>
+
+    <script>
+        var canvas = document.getElementById("monCanvas");
+        var context = canvas.getContext("2d");
+
+        // Chargez le contenu du fichier .canvas
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "assets/WOFOST.canvas", true);
+        xhr.responseType = "blob";
+
+        xhr.onload = function() {
+            var blob = xhr.response;
+            var img = new Image();
+
+            img.onload = function() {
+                // Dessinez l'image sur le canvas
+                context.drawImage(img, 0, 0);
+            };
+
+            img.src = URL.createObjectURL(blob);
+        };
+
+        xhr.send();
+    </script>
+
+
+</body>
+
+</html>

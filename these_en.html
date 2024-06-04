@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Metadata and links to CSS -->
+    <meta charset="UTF-8">
+    <title>Adrien Fauste-Gay</title>
+    <link href="./main.3f6952e4.css" rel="stylesheet">
+    <link href="./assets/logoV3.jpg" rel="icon">
+    <!-- Additional CSS for enhanced styling -->
+    <!-- Include jQuery and jQuery UI for accordion and search functionality -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!-- Custom CSS and JS -->
+    <style>
+        /* Additional styles */
+        #FAQ .accordion {
+          background-color: #eee;
+          color: #444;
+          cursor: pointer;
+          padding: 18px;
+          width: 100%;
+          border: none;
+          text-align: left;
+          outline: none;
+          font-size: 15px;
+          transition: 0.4s;
+        }
+
+        #FAQ .accordion:hover, #faq-section .active {
+          background-color: #ccc;
+        }
+
+        #FAQ .panel {
+          padding: 0 18px;
+          display: none;
+          background-color: transparent;
+          overflow: hidden;
+          transition: max-height 0.2s ease-out;
+        }
+
+        body {
+          background-image: url('./assets/images/these/R1-07288-0022.JPG');
+          background-size: cover;
+          background-attachment: fixed;
+          background-position: center;
+          color: white;
+          background-color: black;
+        }
+
+        /* Optional: Adding a slight overlay to make text more readable */
+        body::before {
+          content: '';
+          display: block;
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.5); /* Adjust color and opacity to your liking */
+          z-index: -1;
+        }
+        h1, h2, h3, .nav-tabs > li > a {
+          color: white;
+        }
+
+        .navbar {
+                  background-color: transparent !important;
+                  position: static; !important;
+                }
+
+                    /* Style pour les liens hypertextes */
+        
+        a.lien-externe:link,
+        a.lien-externe:visited {
+            color: white; /* Couleur du texte */
+            font-weight: bold; /* Texte en gras */
+            text-decoration: underline; /* Texte souligné */
+        }
+
+        a.lien-externe:hover {
+            color: grey; /* Couleur au survol */
+            /* Vous pouvez également modifier le style au survol si nécessaire */
+        }
+
+        .collapse.navbar-collapse {
+            margin: 0px; /* Centre l'élément horizontalement */
+        }
+
+        .btn-primary {color:#fff;background-color:transparent;border-color:#fff}
+        .btn-primary:hover {color:#fff;background-color:#000;border-color:#000}
+
+
+    </style>
+    <script>
+        $(function() {
+            // jQuery functions for accordion and search
+        });
+    </script>
+</head>
+
+<body>
+    <!-- Header and Navigation -->
+    <header>
+       <nav class="navbar  navbar-fixed-top navbar-default">
+    <div class="container">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse" style="text-align: center">
+        <ul class="nav navbar-nav ">
+          <li><a href="./index_en.html" title=""><p style="color:white;">01 : Home</p></a></li>
+          <li><a href="./about_en.html" title=""><p style="color:white;">02 : About</p></a></li>
+          <li><a href="./these_en.html" title=""><p style="color:white;">03 : Thesis</p></a></li>
+          <li><a href="./works_en.html" title=""><p style="color:white;">04 : Works</p></a></li>
+          <li><a href="./cours_en.html" title=""><p style="color:white;">05 : Academic Training</p></a></li>
+          <!--<li><a href="./Albums.html" title=""><p style="color:black;">05 : Photos</p></a></li>-->
+          <li><a href="./contact_en.html" title=""><p style="color:white;">06 : Contact</p></a></li>
+          <li><a href="./index.html" title=""><p style="color:white;">Version Française</p></a></li>
+        </ul>
+
+
+      </div> 
+    </div>
+  </nav>
+    </header>
+
+    <!-- Thesis Content Section with Tabbed Navigation -->
+    <div class="section-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="section-container-spacer text-center">
+                        <h1>AGRARIAN METABOLISM AND THERMODYNAMICS OF COMPLEX SYSTEMS</h1>
+                    </div>
+
+                    <!-- Tabbed Navigation for different sections of the thesis -->
+                    <!--
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a data-toggle="tab" href="#introduction">Introduction</a></li>
+                        <li><a data-toggle="tab" href="#Vue_générale">Vue générale</a></li>
+                        <li><a data-toggle="tab" href="#prospective_terre">Prospective sur l'usage des terres</a></li>
+                        <li><a data-toggle="tab" href="#WOFOST">Cultiver en 2030</a></li>
+                        <li><a data-toggle="tab" href="#Metabolisme_agricole">Métabolisme Agricole</a></li>
+                        <li><a data-toggle="tab" href="#The_Shift_Project">The Shift Project</a></li>
+                        <li><a data-toggle="tab" href="#FAQ">FAQ</a></li>
+                    -->
+                        <!-- More tabs for additional chapters -->
+                    </ul>
+
+                    <div class="tab-content">
+                        <!-- Introduction Tab -->
+                        <div id="introduction" class="tab-pane fade in active">
+                            <h2>Introduction</h2>
+                            <p>This page presents and documents the work I am carrying out during my thesis. It began in October 2023 and is co-supervised by Lauriane Mouysset at CIRED and Olivier Vidal at isterre. As part of my research, I am taking part in the work of the Shift Project's Agriculture team. The elements presented will be updated regularly as I progress. Some sections may be empty or sparsely filled, this will change.</p>
+
+                            <!--<p> Une version PDF de la documentation de mon modèle est disponible ici :</p>
+                            <p align="center"><a href="CV_en.pdf" class="btn btn-primary btn-lg">Documentation (PDF)</a></p>-->
+                            <h3>Background</h3>
+                            My thesis project, carried out in collaboration with the Shift Project, aims to study the exchanges of matter and energy between human systems such as agriculture and the environment, in order to understand the development models of societies and determine how to build a viable and sustainable future. 
+                            More specifically, I'm interested in physical economics, i.e. the exchange of flows and matter in socio-economic systems, particularly in agriculture. The analysis of these flows is known as metabolism. This has enabled us to analyze major metabolic transitions in our societies, such as the transition from the poly-culture livestock farming of the early 20th century to today's intensive industrial agriculture, via the replacement of animal traction by tractors, for example. For more details, see Petros chatzimpiros' work on energy or Julia Le Noé's on nitrogen flows.
+
+                            <h3>Thermodynamics and graph theory</h3>
+
+                            The living world is infinitely complex. Studying it via a mechanical, deterministic approach is doomed to failure. Thermodynamics and graph theory enable us to deal with this complexity without oversimplifying our models.
+                            These tools make it possible to analyze and understand the macroscopic workings of large, complex systems (ecosystems, etc.).
+                            </div>
+                            </div>
+
+                            
+                        </div>
+
+                        <!-- Additional chapters -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <!-- Advanced footer with links, contact info, social media icons -->
+    </footer>
+
+    <!-- Scripts -->
+    <script src="./main.70a66962.js"></script>
+    <!-- Additional JavaScript for interactive elements -->
+    <script>
+    $(document).ready(function() {
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    });
+    </script>
+
+    <script>
+        var canvas = document.getElementById("monCanvas");
+        var context = canvas.getContext("2d");
+
+        // Chargez le contenu du fichier .canvas
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "assets/WOFOST.canvas", true);
+        xhr.responseType = "blob";
+
+        xhr.onload = function() {
+            var blob = xhr.response;
+            var img = new Image();
+
+            img.onload = function() {
+                // Dessinez l'image sur le canvas
+                context.drawImage(img, 0, 0);
+            };
+
+            img.src = URL.createObjectURL(blob);
+        };
+
+        xhr.send();
+    </script>
+
+
+</body>
+
+</html>
