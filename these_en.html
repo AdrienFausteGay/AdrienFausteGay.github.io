@@ -136,20 +136,20 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="section-container-spacer text-center">
-                        <h1>AGRARIAN METABOLISM AND THERMODYNAMICS OF COMPLEX SYSTEMS</h1>
+                        <h1>ANALYSIS OF AGRARIAN METABOLISM IN FRANCE FROM 1850 TO 2050</h1>
                     </div>
 
                     <!-- Tabbed Navigation for different sections of the thesis -->
-                    <!--
                     <ul class="nav nav-tabs">
                         <li class="active"><a data-toggle="tab" href="#introduction">Introduction</a></li>
-                        <li><a data-toggle="tab" href="#Vue_générale">Vue générale</a></li>
-                        <li><a data-toggle="tab" href="#prospective_terre">Prospective sur l'usage des terres</a></li>
-                        <li><a data-toggle="tab" href="#WOFOST">Cultiver en 2030</a></li>
-                        <li><a data-toggle="tab" href="#Metabolisme_agricole">Métabolisme Agricole</a></li>
+                        <li><a data-toggle="tab" href="#GRAFS-E">GRAFS-E</a></li>
+                        <!--
+                        <li><a data-toggle="tab" href="#prospective_terre">Prospective on land use</a></li>
+                        <li><a data-toggle="tab" href="#WOFOST">Cultivating in 2030</a></li>
+                        <li><a data-toggle="tab" href="#Metabolisme_agricole">Agricultural Metabolism</a></li>
                         <li><a data-toggle="tab" href="#The_Shift_Project">The Shift Project</a></li>
                         <li><a data-toggle="tab" href="#FAQ">FAQ</a></li>
-                    -->
+                        -->
                         <!-- More tabs for additional chapters -->
                     </ul>
 
@@ -157,22 +157,32 @@
                         <!-- Introduction Tab -->
                         <div id="introduction" class="tab-pane fade in active">
                             <h2>Introduction</h2>
-                            <p>This page presents and documents the work I am carrying out during my thesis. It began in October 2023 and is co-supervised by Lauriane Mouysset at CIRED and Olivier Vidal at isterre. As part of my research, I am taking part in the work of the Shift Project's Agriculture team. The elements presented will be updated regularly as I progress. Some sections may be empty or sparsely filled. It will be updated on a regular basis.</p>
+                            <p>This page presents and documents the work I am doing during my PhD. It started in October 2023 and is co-supervised by Lauriane Mouysset at CIRED and Olivier Vidal at ISTERRE. As part of my research, I am participating in the work of the Agriculture team at The Shift Project.</p>
+                            <h3>Context</h3>
+                            My doctoral project, in collaboration with The Shift Project, aims to study the material and energy exchanges between human systems, such as agriculture, and the environment, in order to understand the development models of societies and to determine how to build a viable and sustainable future.
+                            More specifically, I focus on physical economics, i.e. the flows of materials and energy in socio-economic systems, particularly in agriculture. The analysis of these flows is called metabolism. This has allowed for the analysis of major metabolic transitions in our societies, such as the shift from early 20th-century mixed crop-livestock farming to current industrial and intensive agriculture, for example, the replacement of animal traction by tractors.
+                        </div>
 
-                            <!--<p> Une version PDF de la documentation de mon modèle est disponible ici :</p>
-                            <p align="center"><a href="CV_en.pdf" class="btn btn-primary btn-lg">Documentation (PDF)</a></p>-->
-                            <h3>Background</h3>
-                            My thesis project, carried out in collaboration with the Shift Project, aims to study the exchanges of matter and energy between human systems such as agriculture and the environment, in order to understand the development models of societies and determine how to build a viable and sustainable future. 
-                            More specifically, I'm interested in physical economics, i.e. the flows of matter and energy in socio-economic systems, particularly in agriculture. The analysis of these flows is known as metabolism. This has enabled us to analyze major metabolic transitions in our societies, such as the transition from the poly-culture livestock farming of the early 20th century to today's intensive industrial agriculture, via the replacement of animal traction by tractors, for example. For more details, see Petros chatzimpiros' work on energy or Julia Le Noé's on nitrogen flows.
+                        <!-- GRAFS-E Tab -->
+                        <div id="GRAFS-E" class="tab-pane fade">
+                            <h2>GRAFS-E</h2>
+                            <p>Representing nitrogen physical flows in agricultural systems</p>
+                            <h3>The model</h3>
+                            <p>GRAFS-E (Generalized Representation of Agro-Food Systems – Extended) is an enhanced version of the GRAFS model, which already tracked nitrogen flows in French agriculture. While GRAFS was limited to four main compartments (cereals-grasslands, ruminants, monogastrics, and population), GRAFS-E now breaks the system into 66 distinct objects: 35 crops (cereals, legumes, forages, etc.), 6 types of livestock, 2 population categories, the Haber-Bosch industrial process, several external sectors, and seven environmental reservoirs. For each year and each of the 33 metropolitan regions of France studied between 1852 and 2014, it produces a 66 × 66 matrix quantifying, in kilotonnes of nitrogen per year, all transfers between these objects. This fine resolution allows, for example, distinguishing the share of nitrogen recycled from cattle to grasslands, the dependence of wheat on Haber-Bosch processes, or the atmospheric and aquatic losses associated with each crop.</p>
 
-                            <h3>Thermodynamics and graph theory</h3>
+                            <p>To generate these detailed flows, the model relies on new data (areas, yields, animal and human diets) and an optimization module that dynamically allocates plant production between human food, animal feed, and exports/imports, while respecting target dietary patterns and regional trade balances. This approach retains the simplicity of use of the original GRAFS model (few parameters, easily accessible data), while providing a much more nuanced view of nutrient recycling loops, external dependencies, and nitrogen leakage points. GRAFS-E thus becomes a tool of choice for analyzing the retrospective nitrogen metabolism in French agro-systems, comparing regions, testing dietary or agricultural practice change scenarios, and more broadly informing reflections on sustainability and circularity in agriculture.</p>
 
-                            The living world is infinitely complex. Studying it via a mechanical, deterministic approach is doomed to failure. Thermodynamics and graph theory enable us to deal with this complexity without oversimplifying our models.
-                            These tools make it possible to analyze and understand the macroscopic workings of large, complex systems (ecosystems, etc.).
-                            </div>
-                            </div>
+                            <ul>
+                                <li><a href="https://grafs-e.streamlit.app"
+                                       style="color:#ffffff; text-decoration:underline;"
+                                       title="Access the online model">Access the online model</a></li>
 
-                            
+                                <li><a href="Doc_grafse/index.html"
+                                       style="color:#ffffff; text-decoration:underline;"
+                                       title="Access the Python documentation">Access the Python documentation</a></li>
+                            </ul>
+
+                            <p>Methodology paper submitted. Please contact me for the pre-print.</p>
                         </div>
 
                         <!-- Additional chapters -->

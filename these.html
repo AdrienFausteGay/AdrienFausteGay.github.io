@@ -136,14 +136,14 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="section-container-spacer text-center">
-                        <h1>MÉTABOLISME AGRAIRE ET THERMODYNAMIQUE DES SYSTÈMES COMPLEXES</h1>
+                        <h1>ANALYSE DU METABOLISME AGRAIRE EN FRANCE DE 1850 A 2050</h1>
                     </div>
 
                     <!-- Tabbed Navigation for different sections of the thesis -->
-                    <!--
                     <ul class="nav nav-tabs">
                         <li class="active"><a data-toggle="tab" href="#introduction">Introduction</a></li>
-                        <li><a data-toggle="tab" href="#Vue_générale">Vue générale</a></li>
+                        <li><a data-toggle="tab" href="#GRAFS-E">GRAFS-E</a></li>
+                    <!--
                         <li><a data-toggle="tab" href="#prospective_terre">Prospective sur l'usage des terres</a></li>
                         <li><a data-toggle="tab" href="#WOFOST">Cultiver en 2030</a></li>
                         <li><a data-toggle="tab" href="#Metabolisme_agricole">Métabolisme Agricole</a></li>
@@ -157,17 +157,18 @@
                         <!-- Introduction Tab -->
                         <div id="introduction" class="tab-pane fade in active">
                             <h2>Introduction</h2>
-                            <p>Cette page présente et documente les travaux que je réalise durant ma thèse. Celle-ci a débutée en octobre 2023 et est co-encadrée par Lauriane Mouysset au CIRED et Olivier Vidal à isterre. Dans le cadre des mes recherches, je participe aux travaux de l'équipe Agriculture du Shift Project. Les éléments présentés seront mis à jour régulièrement en fonction de mes avancées. Certaines sections peuvent être vides ou peu remplies. Les sections seront progressivement mises à jour.</p>
+                            <p>Cette page présente et documente les travaux que je réalise durant ma thèse. Celle-ci a débuté en octobre 2023 et est co-encadrée par Lauriane Mouysset au CIRED et Olivier Vidal à isterre. Dans le cadre des mes recherches, je participe aux travaux de l'équipe Agriculture du Shift Project.</p>
                             <!--<p> Une version PDF de la documentation de mon modèle est disponible ici :</p>
                             <p align="center"><a href="CV_en.pdf" class="btn btn-primary btn-lg">Documentation (PDF)</a></p>-->
                             <h3>Contexte</h3>
                             Mon projet de thèse, mené en collaboration avec le Shift Project, a pour but d’étudier les échanges de matière et d’énergie entre les systèmes humains tel que l’agriculture et l’environnement afin de comprendre les modèles de développement des sociétés et de déterminer comment construire un avenir viable et durable.
-                            Plus précisément, je m'intéresse à l'économie physique, c'est à dire aux flux de matière et d'énergie dans les systèmes socio-économiques et en particulier en agriculture. L'analyse de ces flux est ce que l'on appelle le métabolisme. Cela a permis d'analyser d'importantes transitions métaboliques dans nos sociétés comme le passage de la poly-culture élevage du début du XXe siècle à l'agriculture industrielle et intensive actuelle via par exemple le remplacement de la traction animale par les tracteurs. Pour plus de détail, voir les travaux de Petros chatzimpiros sur l'énergie ou de Julia Le Noé sur les flux d'azote.
+                            Plus précisément, je m'intéresse à l'économie physique, c'est à dire aux flux de matière et d'énergie dans les systèmes socio-économiques et en particulier en agriculture. L'analyse de ces flux est ce que l'on appelle le métabolisme. Cela a permis d'analyser d'importantes transitions métaboliques dans nos sociétés comme le passage de la poly-culture élevage du début du XXe siècle à l'agriculture industrielle et intensive actuelle via par exemple le remplacement de la traction animale par les tracteurs.
 
-                            <h3>Thermodynamique et théorie des graphes</h3>
+                            <!--<h3>Thermodynamique et théorie des graphes</h3>
 
                             Le monde du vivant est d'une compléxité infinie. L'étudier via une approche mécanique, déterministe est vouée à l'échec. La Thermodynamique et la théories des graphes permettent de faire face à cette compléxité sans simplifier abusivement nos modèles.
                             Ces outils permettent d'analyser et de comprendre le fonctionnement macroscopique de grands systèmes complexes (écosystèmes, systèmes agraires, réseaux économiques etc) et de prédire leur évolution.
+                            -->
                             <!--
                             <p>Le réchauffement climatique a des impacts croissants sur nos modes de vie et l'environnement. Le rapport spécial du GIEC sur le changement climatique et les terres émergées alerte quant à la vulnérabilité des écosystèmes terrestres et de la biodiversité au changement climatique et aux conditions météorologiques et climatiques extrêmes. Les changements d'usage des sols ont été identifiés comme l'une des principales causes de l'érosion de la biodiversité en Europe et en France au cours des dernières décennies. Les interactions complexes entre changement d’usage des sols et changement climatiques, aggravées par des processus de rétroaction à différentes échelles spatiotemporelles rendent ainsi leurs études très délicates.</p>
                             <p>Le milieu agricole est particulièrement vulnérable face à ces défis. La créations d'outils de prospectives mettant en relation d'une part des données et des modèles scientifiques validés (climat, usage des sols...) et des scénario sur les futurs que l'on estime crédible (réaction du monde agricole face au changement, politiques publiques, influence des marchés...) semble être décisif pour prendre à toute échelle, des décision éclairées.</p>
@@ -177,14 +178,29 @@
                         </div>
                     
                         <!-- Chapter 1 Tab -->
-                        <!--
-                        <div id="Vue_générale" class="tab-pane fade">
-                            <h2>Vue générale</h2>
-                            <p>Pour comprendre rapidement le sujet de mes travaux.
+                        <div id="GRAFS-E" class="tab-pane fade">
+                            <h2>GRAFS-E</h2>
+                            <p>Représenter les flux physique d'azote dans les systèmes agricoles
                             <h3>Le modèle</h3>
-                            <p>Le but de ma thèse est de mettre au point un modèle permettant de donner une image de ce que sera l'agriculture dans 5, 10, 20 ans. Ce modèle s'appuie lui même sur d'autres modèles déjà éprouvés (WOFOST, Pracmln, LARS-WG...) et des données issues de diverses institutions (relevés d'eau de ADES, les Registre Parcellaires Graphiques...) et les combines pour avoir une approche la plus complète possible. Un des objectifs de cette thèse est de réaliser un serious game basé sur un modèle bioéconomique. Ce serious game devra permettre d'explorer divers scénarios (climatiques, de choix de politiques agricoles...) et permettre aux décideurs de prendre des décisions éclairées.</p>
+                            <p></p>
 
-                            <h3>Carte mentale</h3>
+                            <p>GRAFS-E (pour Generalized Representation of Agro-Food Systems – Extended) est une version enrichie du modèle GRAFS qui suivait déjà les flux d’azote dans l’agriculture française. Alors que GRAFS se limitait à quatre grands compartiments (céréales–prairies, ruminants, monogastriques, population), GRAFS-E décompose désormais le système en 66 objets distincts : 35 cultures (céréales, légumineuses, fourrages, etc.), 6 types de bétail, 2 catégories de population, le processus industriel Haber-Bosch, plusieurs secteurs extérieurs et sept réservoirs environnementaux. Pour chaque année et pour chacune des 33 régions métropolitaines françaises étudiées entre 1852 et 2014, il produit ainsi une matrice 66 × 66 qui quantifie, en kilotonnes d’azote par an, tous les transferts entre ces objets. Cette résolution fine permet de distinguer, par exemple, la part de l’azote bovin recyclée vers les prairies, la dépendance d’un blé fortement fertilisé au procédé Haber-Bosch ou encore les pertes atmosphériques et aquatiques associées à chaque culture. </p>
+
+                            <p>Pour générer ces flux détaillés, le modèle s’appuie sur de nouvelles données (surfaces, rendements, diètes animales et humaines) et sur un module d’optimisation qui alloue dynamiquement la production végétale entre alimentation humaine, alimentation animale et export/import, tout en respectant des régimes alimentaires cibles et les bilans commerciaux régionaux. Cette approche conserve la simplicité d’utilisation du GRAFS original (peu de paramètres, données facilement accessibles) tout en offrant une vision beaucoup plus nuancée des boucles de recyclage, des dépendances extérieures ou des points de fuite de l’azote. GRAFS-E devient ainsi un outil de choix pour analyser rétrospectivement la métabolisation de l’azote dans les agro-systèmes français, comparer des régions, tester des scénarios de changement de régime alimentaire ou de pratiques agricoles, et, plus largement, alimenter les réflexions sur la durabilité et la circularité de l’agriculture.</p>
+
+                            <ul>
+                              <li><a href="https://grafs-e.streamlit.app"
+                                     style="color:#ffffff; text-decoration:underline;"
+                                     title="Accès au modèle en ligne">Accès au modèle en ligne</a></li>
+
+                              <li><a href="Doc_grafse/index.html"
+                                     style="color:#ffffff; text-decoration:underline;"
+                                     title="Accès à la documentation Python">Accès à la documentation python</a></li>
+                            </ul>
+
+                            <p>Papier méthodologie soumis. Me contacter pour obtenir le pre-print.</p>
+
+                            <!--<h3>Carte mentale</h3>
 
                             <p>Ce diagramme présente l'architecture générale du modèle. L'idée est de partir de l'emprise réelle des activités agricoles sur le sol. celle-ci sont documentées par les Registre Parcellaires Graphiques. Ces données vont permettre d'entraîner un modèle permettant de faire de la prospective sur l'usage des terres (que sera planté dans les parcelles à l'avenir). A partir de cette emprise au sol, de données climatiques et de données locales, nous obtenons une estimation du rendement de chaque parcelle. Ces données permettent d'analyser le "métabolisme agricole", c'est à dire le fonctionnement physique du système agricole (que consomme t'on pour produire, que produit on, quelles zones sont en difficultés etc). Chaque élément est détaillé dans les sections suivantes.
 
