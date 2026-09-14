@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="169.76407mm"
+   viewBox="0 0 210 169.76407"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path2-1" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(2.0728929e-6,-8.8247547)">
+    <path
+       style="fill:#00d455;fill-opacity:0;stroke:#000000;stroke-width:1.2197;marker-start:url(#Triangle);marker-end:url(#marker2)"
+       d="M 100.73839,160.8117 V 23.153391"
+       id="path1" />
+    <path
+       style="fill:#00d455;fill-opacity:0;stroke:#000000;stroke-width:1.2197;marker-start:url(#Triangle-1);marker-end:url(#marker2-1)"
+       d="M 31.909241,91.995003 169.56755,91.970085"
+       id="path1-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+       x="100.33829"
+       y="13.221085"
+       id="text2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+         x="100.33829"
+         y="13.221085"
+         id="tspan3">Spécialisé</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+       x="100.90791"
+       y="171.99634"
+       id="text2-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+         x="100.90791"
+         y="171.99634"
+         id="tspan4">Intégration</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+         x="100.90791"
+         y="177.91272"
+         id="tspan2">territoriale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+       x="13.590364"
+       y="93.289894"
+       id="text2-8-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+         x="13.590364"
+         y="93.289894"
+         id="tspan5">Autonomie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="38.961365"
+       y="81.565399"
+       id="text2-8-7-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="38.961365"
+         y="81.565399"
+         id="tspan5-4">S1 Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="124.17764"
+       y="110.79108"
+       id="text2-8-7-3-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="124.17764"
+         y="110.79108"
+         id="tspan5-4-4">S4 Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="113.22513"
+       y="65.830612"
+       id="text2-8-7-3-7-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="113.22513"
+         y="65.830612"
+         id="tspan5-4-4-1">S2 Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="160.96925"
+       y="83.86969"
+       id="text2-8-7-3-7-3-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="160.96925"
+         y="83.86969"
+         id="tspan5-4-4-1-2">S3 Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="136.76723"
+       y="129.29939"
+       id="text2-8-7-3-7-3-0-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="136.76723"
+         y="129.29939"
+         id="tspan5-4-4-1-2-8">Solagro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="43.784954"
+       y="132.75163"
+       id="text2-8-7-3-7-3-0-4-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="43.784954"
+         y="132.75163"
+         id="tspan5-4-4-1-2-8-0">Confédération</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="43.784954"
+         y="138.66801"
+         id="tspan7">paysanne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+       x="71.172287"
+       y="53.629417"
+       id="text2-8-7-3-7-3-0-4-0-1-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+         x="71.172287"
+         y="53.629417"
+         id="tspan7-4-7">LR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+       x="59.239983"
+       y="88.216629"
+       id="text2-8-7-3-7-3-0-4-0-1-3-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+         x="59.239983"
+         y="88.216629"
+         id="tspan7-4-7-6">MA S1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+       x="145.09908"
+       y="45.83276"
+       id="text2-8-7-3-7-3-0-4-0-1-3-2-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+         x="145.09908"
+         y="45.83276"
+         id="tspan7-4-7-6-1">MA S2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+       x="74.547607"
+       y="139.34149"
+       id="text2-8-7-3-7-3-0-4-0-1-3-2-0-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+         x="74.547607"
+         y="139.34149"
+         id="tspan7-4-7-6-1-0">MA S4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+       x="163.8521"
+       y="30.578482"
+       id="text2-8-7-3-7-3-0-4-0-1-3-2-0-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+         x="163.8521"
+         y="30.578482"
+         id="tspan7-4-7-6-1-7">MA S3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+       x="70.165543"
+       y="153.39839"
+       id="text2-8-7-3-7-3-0-4-0-1-3-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.146364;stroke-dasharray:none;stroke-opacity:1"
+         x="70.165543"
+         y="153.39839"
+         id="tspan7-4-7-5">LFI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="130.424"
+       y="57.96653"
+       id="text2-8-7-3-7-3-0-4-0-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="130.424"
+         y="57.96653"
+         id="tspan5-4-4-1-2-8-0-3">S4 ADEME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="121.84943"
+       y="136.76347"
+       id="text2-8-7-3-7-3-0-4-0-9-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="121.84943"
+         y="136.76347"
+         id="tspan5-4-4-1-2-8-0-3-6">S1 ADEME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="114.74433"
+       y="30.62072"
+       id="text2-8-7-3-7-3-0-4-0-9-6-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="114.74433"
+         y="30.62072"
+         id="tspan5-4-4-1-2-8-0-3-6-3">FNSEA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="44.958321"
+       y="35.546829"
+       id="text2-8-7-3-7-3-0-4-0-9-6-6-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="44.958321"
+         y="35.546829"
+         id="tspan5-4-4-1-2-8-0-3-6-3-1">Coordination</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#0088aa;fill-opacity:1;stroke:#0088aa;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="44.958321"
+         y="41.463203"
+         id="tspan8">Rurale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+       x="141.92709"
+       y="153.39839"
+       id="text2-8-7-3-7-3-0-4-0-9-6-6-9-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#2ca02c;fill-opacity:1;stroke:#2ca02c;stroke-width:0.242;stroke-dasharray:none;stroke-opacity:1"
+         x="141.92709"
+         y="153.39839"
+         id="tspan5-4-4-1-2-8-0-3-6-3-1-0">IDDRI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7331px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+       x="191.18903"
+       y="90.894852"
+       id="text2-8-7-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+         x="191.18903"
+         y="90.894852"
+         id="tspan6">Intégration</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2197;stroke-opacity:0"
+         x="191.18903"
+         y="96.811226"
+         id="tspan1">internationnale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:0"
+       x="31.999763"
+       y="75.507973"
+       id="text2-8-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:0"
+         x="31.999763"
+         y="75.507973"
+         id="tspan4-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:#aa0000;stroke-width:0.12;stroke-dasharray:none;stroke-opacity:1"
+       x="81.653748"
+       y="127.35738"
+       id="text9"><tspan
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre Bold';stroke:#aa0000;stroke-width:0.12;stroke-dasharray:none;stroke-opacity:1"
+         x="81.653748"
+         y="127.35738" /></text>
+  </g>
+</svg>
